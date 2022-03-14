@@ -1,2 +1,2 @@
 # Datorama_DataViz
-Dashboard screenshots :: all sensitive data has been erased
+Dashboards :: all sensitive data has been erased/covered
